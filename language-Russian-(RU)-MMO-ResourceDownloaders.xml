@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="MMO/ResourceDownloaders" base_version_id="2010270" export_version="2">
+  <phrase title="admin_navigation.mrd_resource_downloaders" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Кто скачал ресурсы]]></phrase>
+  <phrase title="mmord_downloaded_resources" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Скачанные ресурсы]]></phrase>
+  <phrase title="mmord_filter_by_resource" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Фильтрация по ресурсу]]></phrase>
+  <phrase title="mmord_last_download_in_x" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Последнее скачивание {time}]]></phrase>
+  <phrase title="mmord_members_download_this_version" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Пользователи, которые скачали эту версию]]></phrase>
+  <phrase title="mmord_members_who_downloaded_resource" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Пользователи, скачавшие ресурс: {title}]]></phrase>
+  <phrase title="mmord_no_resource_downloaders" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Ни один пользователь еще не скачал этот ресурс.]]></phrase>
+  <phrase title="mmord_resource_downloaders" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Скачивания]]></phrase>
+  <phrase title="mmord_resources_download_by_x" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Скачанные ресурсы пользователя {name}]]></phrase>
+  <phrase title="mmord_view_resource_downloaders_list" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Просмотреть список]]></phrase>
+  <phrase title="mmord_x_has_not_download_any_resources_yet" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[{name} еще не скачал ни одного ресурса]]></phrase>
+  <phrase title="mmord_you_have_not_download_any_resources_yet" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Вы еще не скачивали ресурсы]]></phrase>
+  <phrase title="mrd_xfrm_resource_username" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Имя пользователя]]></phrase>
+  <phrase title="option.mmo_xfrmDownoloadersPerPage" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Скачавших ресурс на странице]]></phrase>
+  <phrase title="option_explain.mmo_xfrmDownoloadersPerPage" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Количество пользователей, которые скачали этот ресурс на странице]]></phrase>
+  <phrase title="permission.resource_viewWhoDownResAny" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Может смотреть кто скачал любые ресурсы]]></phrase>
+  <phrase title="permission.resource_viewWhoDownResOwn" addon_id="MMO/ResourceDownloaders" version_id="2010270" version_string="2.1.2"><![CDATA[Может смотреть кто скачал его ресурсы]]></phrase>
+</language>

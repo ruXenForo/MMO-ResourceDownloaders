@@ -1,5 +1,5 @@
 # Русификатор MMO Who Downloaded This Resource
-Русский язык для плагина MMO Who Downloaded This Resource для XenForo 2
+Русский язык плагина MMO Who Downloaded This Resource для XenForo 2
 
 ## Файлы
 * [XenForo](https://xenforo.com/)
@@ -9,8 +9,8 @@
 * XenForo Resource Manager
 
 ## Актуальная версия
-  * XenForo v2.1.8 Patch 2
-  * Who Downloaded This Resource 2.1.2
+  * XenForo v2.1.9
+  * Who Downloaded This Resource 2.1.3
 
 ## Описание плагина
-Плагин позволяет увидеть, кто скачивал ресурс
+Плагин позволяет увидеть, кто скачивал ресурс.
